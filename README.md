@@ -5,7 +5,7 @@ Professor: John Svadlenka
 
 **************** <br>
 Disclaimer: The code contained in these programs is not to be copied, claimed, or submitted by anyone other than the original owner.
-<br>
+****************<br>
 
 CS340-MultiThread<br>
 <br>
