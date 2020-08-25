@@ -1,0 +1,69 @@
+Undergraduate Students:   Memory is 1,048,576
+
+RQ P0 524288 F
+RQ P1 524288 F
+STAT
+
+RL P0
+RQ P2 262144 F
+STAT
+
+C
+STAT
+
+RQ P3 131072 F
+STAT
+
+C
+STAT
+
+RL P1
+STAT
+
+RL P3
+STAT
+
+
+Graduate Students (2 scripts) 
+
+Script 1   Memory is 1,048,576
+--------
+
+RQ P0 524288 F
+RQ P1 524288 F
+STAT
+
+RL P0
+RQ P2 262144 F
+STAT
+
+C
+STAT
+
+RQ P3 131072 F
+STAT
+
+C
+STAT
+
+RL P1
+STAT
+
+RL P3
+STAT
+
+
+Script 2  (Re-run program)  Memory is 1,048,576
+--------
+
+RQ P0 262144 B
+RQ P1 262144 B
+RQ P2 262200 B
+STAT
+
+RL P1
+RQ P3 200000 B
+STAT
+
+RQ P4 200000 B 
+STAT
