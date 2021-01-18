@@ -38,4 +38,3 @@ exited. <br>
 
 CS340-Shell <br>
 Smash is the newest and hottest shell not on the market.
-Designed by a metaphorical code chimp, smash is the kind of shell that you would not want to use willingly.
